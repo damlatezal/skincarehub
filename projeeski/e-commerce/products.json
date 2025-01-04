@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Eye Gel Patches",
+      "price": 14.99,
+      "discountPrice": 29.99,
+      "image": "assets/images/product-04.jpg",
+      "category": "Moisturizers",
+      "tag": "New"
+    },
+    {
+      "id": 2,
+      "title": "Jojoba Cleansing Balm",
+      "price": 11.99,
+      "discountPrice": 21.99,
+      "image": "assets/images/product-05.jpg",
+      "category": "Cleansers",
+      "tag": "Sale"
+    },
+    {
+      "id": 3,
+      "title": "Vitamin E Face Moisturizer",
+      "price": 5.99,
+      "discountPrice": 12.99,
+      "image": "assets/images/product-06.jpg",
+      "category": "Moisturizers",
+      "tag": "Sale"
+    },
+    {
+      "id": 4,
+      "title": "Glowing Face Mist",
+      "price": 7.99,
+      "discountPrice": 14.99,
+      "image": "assets/images/product-07.jpg",
+      "category": "Moisturizers",
+      "tag": "New"
+    },
+    {
+      "id": 5,
+      "title": "Matcha Clay Mask",
+      "price": 7.99,
+      "discountPrice": 14.99,
+      "image": "assets/images/product-08.jpg",
+      "category": "Cleansers",
+      "tag": "New"
+    },
+    {
+      "id": 6,
+      "title": "Azelaic Acid Serum",
+      "price": 14.99,
+      "discountPrice": 29.99,
+      "image": "assets/images/product-09.jpg",
+      "category": "Serums",
+      "tag": "Sale"
+    }
+  ]
+  
